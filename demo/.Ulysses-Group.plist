@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>carousel-about</string>
+		<string>carousel-story</string>
+		<string>carousel-studio</string>
+		<string>city</string>
+		<string>clients</string>
+		<string>featured-works</string>
+		<string>our-story</string>
+		<string>projects</string>
+		<string>slider</string>
+		<string>team</string>
+		<string>testimonials</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>
